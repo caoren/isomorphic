@@ -1,0 +1,88 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.41.5",
+  "hash": "0b4a0a7ac117fca3d1fe",
+  "publicPath": "",
+  "outputPath": "/Users/Rush/netease/cloudclass/isomorphic/buildserver",
+  "assetsByChunkName": {
+    "server": "server.js"
+  },
+  "assets": [
+    {
+      "name": "server.js",
+      "size": 91226,
+      "chunks": [
+        "server"
+      ],
+      "chunkNames": [
+        "server"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "server": {
+      "chunks": [
+        "server"
+      ],
+      "assets": [
+        "server.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "server": {
+      "chunks": [
+        "server"
+      ],
+      "assets": [
+        "server.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "views-home": {
+      "chunks": [
+        "server"
+      ],
+      "assets": [
+        "server.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "views-list": {
+      "chunks": [
+        "server"
+      ],
+      "assets": [
+        "server.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "views-detail": {
+      "chunks": [
+        "server"
+      ],
+      "assets": [
+        "server.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}
